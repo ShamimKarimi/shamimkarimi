@@ -1,0 +1,38 @@
+<svg id="wires" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-15 {
+        fill: none;
+        stroke: #5b5b5b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="outlines">
+    <path id="Rounded_Rectangle_1_copy_7" data-name="Rounded Rectangle 1 copy 7" class="cls-15" d="M1799.27,1.7l31.13,31.136a14.092,14.092,0,0,1,0,19.924L1451.96,431.314a14.083,14.083,0,0,1-19.92,0L1230.37,229.583a14.092,14.092,0,0,1,0-19.924L1438.27,1.7"/>
+    <path id="Rounded_Rectangle_1_copy_4" data-name="Rounded Rectangle 1 copy 4" class="cls-15" d="M701.042,521.969L1079.49,143.411a14.071,14.071,0,0,1,19.91,0l278.86,278.937a14.093,14.093,0,0,1,0,19.925L999.814,820.831a14.081,14.081,0,0,1-19.918,0L701.042,541.893A14.092,14.092,0,0,1,701.042,521.969Z"/>
+    <path id="Rounded_Rectangle_1_copy_8" data-name="Rounded Rectangle 1 copy 8" class="cls-15" d="M1241.27,1082.28L1022.72,863.667a14.092,14.092,0,0,1,0-19.924l378.44-378.558a14.085,14.085,0,0,1,19.92,0L1916.54,960.8a14.075,14.075,0,0,1,0,19.925L1815.02,1082.28"/>
+    <path id="Rounded_Rectangle_1_copy_12" data-name="Rounded Rectangle 1 copy 12" class="cls-15" d="M1.711,781.189l14.647-14.652a14.082,14.082,0,0,1,19.918,0L351.925,1082.28"/>
+    <path id="Rounded_Rectangle_1_copy_10" data-name="Rounded Rectangle 1 copy 10" class="cls-15" d="M1392.45,1.7l-184.99,185.05a14.083,14.083,0,0,1-19.92,0L1002.55,1.7"/>
+    <path id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-15" d="M397.737,1082.28l-9.907-9.91a14.087,14.087,0,0,1,0-19.92L766.274,673.89a14.081,14.081,0,0,1,19.918,0L992.345,880.105a14.092,14.092,0,0,1,0,19.924l-182.2,182.251"/>
+    <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-15" d="M1.711,603.864L348.99,256.48a14.082,14.082,0,0,1,19.918,0l374.46,374.574a14.09,14.09,0,0,1,0,19.924L364.924,1029.54a14.085,14.085,0,0,1-19.918,0l-343.3-343.4"/>
+    <path id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-15" d="M855.959,1082.28L1015.25,922.942a14.083,14.083,0,0,1,19.92,0l159.29,159.338"/>
+    <path id="Rounded_Rectangle_1_copy_14" data-name="Rounded Rectangle 1 copy 14" class="cls-15" d="M1860.83,1082.28l58.45-58.47"/>
+    <path id="Rounded_Rectangle_1_copy_13" data-name="Rounded Rectangle 1 copy 13" class="cls-15" d="M1919.28,918.7L1795.54,794.929a14.092,14.092,0,0,1,0-19.924l123.74-123.773"/>
+    <path id="Rounded_Rectangle_1_copy_11" data-name="Rounded Rectangle 1 copy 11" class="cls-15" d="M1919.28,607.4l-145.65,145.69a14.083,14.083,0,0,1-19.92,0L1474.86,474.151a14.092,14.092,0,0,1,0-19.924L1853.31,75.669a14.072,14.072,0,0,1,19.91,0l46.06,46.069"/>
+    <path id="Rounded_Rectangle_1_copy_6" data-name="Rounded Rectangle 1 copy 6" class="cls-15" d="M956.736,1.7l99.344,99.376a14.093,14.093,0,0,1,0,19.925L677.639,499.554a14.081,14.081,0,0,1-19.918,0L322.1,163.833a14.09,14.09,0,0,1,0-19.924L464.271,1.7"/>
+    <path id="Rounded_Rectangle_1_copy_5" data-name="Rounded Rectangle 1 copy 5" class="cls-15" d="M418.459,1.7L299.2,121a14.08,14.08,0,0,1-19.918,0L160.012,1.7"/>
+    <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-15" d="M114.2,1.7L326.084,213.644a14.092,14.092,0,0,1,0,19.924L1.711,558.039"/>
+    <path class="cls-15" d="M1844,0l76,75"/>
+  </g>
+</svg>
