@@ -910,15 +910,109 @@
                   Instagram for instance is defining terms like beauty and happiness in shapes of flawless skinny women and colorful healthy food having zero calories.
                   The mannequin is a symbol of us, who are blindly following meaningless behaviors.
                 </p>
-                <img class="img-fluid d-block mx-auto" src="img/portfolio/marionette_1.jpg" alt="">
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/marionette_0.jpg" alt="">
 
                 <p class="modal-title">
                   Materials and Hardware
                 </p>
                 <p class="modal-description">
-                  
+                  I designed the puppet and the structure to hold the hardware and threads using photoshop, and I used a laser cutter machine
+                  to cut all the parts out of a 3mm MDF.<br>
+                  An Arduino Uno board was used for controlling two step motors, each one connected to one hand of the puppet.
+                  I used a Bluetooth module to connect the board to an Android app.
+                </p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/marionette_1.jpg" alt="">
+
+                <p class="modal-title">
+                  Software
+                </p>
+                <p class="modal-description">
+                  I developed an Android app with a UI similar to Instagram. There were pictures of girls posing for the camera in explore tab.
+                  By pressing the "Follow" button above each picture, puppet's hands would move to imitate the position of girl's hands in the picture.
                 </p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/marionette_screenshot.png" alt="">
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Project</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ALCHEMY -->
+  <div class="portfolio-modal modal fade" id="portfolioModalAlchemy" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Alchemy</h2>
+                <p class="item-intro text-muted">Augmented Reality Game</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/alchemy.jpg" alt="">
+
+                <p class="modal-title">
+                  Overview
+                </p>
+                <p class="modal-overview">
+                  <i class="fas fa-angle-right"></i> Augmented Reality Game developed using Vuforia framework and Unity<br>
+                  <i class="fas fa-angle-right"></i> One-person project<br>
+                  <i class="fas fa-angle-right"></i> Designed and implemented for Mixed Reality and Tangible Interaction course in Paris Sud University - 2018
+                </p>
+
+                <p class="modal-title">
+                  Design Concept
+                </p>
+                <p class="modal-description">
+                  Alchemy is an AR game based on the idea of Alchemy android application.
+                  In this game user starts with 4 basic elements: Air, Water, Fire and Earth;
+                  and creates new elements (or objects) by combining those that are already created.
+                </p>
+
+                <p class="modal-title">
+                  The Game
+                </p>
+                <p class="modal-description">
+                  In the AR version which has been developed using Vuforia framework, I used square markers for elements, and the game is able to recognize 20 of them simultaneously. There is also a 3D picture of a landscape that includes some of
+                  the elements. Only elements and objects that are already created are opaque in the landscape. Other elements are semi-transparent. The goal is to make this picture complete by making all of the semi-transparent objects
+                  opaque.<br>
+                  There are 4 markers with pictures of 4 basic elements, and 40 markers that are randomly generated but unique images of black lines in white background. At the beginning 4 basic elements 3D models are attached to 4 markers with
+                  their pictures, and all of those 40 markers have question mark models attached to them. User can start with holding two of four basic elements markers and put them close enough to make a new element. For instance, fire and water
+                  will
+                  make steam element. This new element will appear on the right side of the screen, and user can attach it to a marker with question mark. From now on, that specific marker plays the role of the element that has just been created,
+                  which is steam in this example.
+                </p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/alchemy_0.jpg" alt="">
+
+                <p class="modal-title">
+                  Models and UX
+                </p>
+                <p class="modal-description">
+                  I made 3D low-poly models of elements and the landscape using Blender. As the new elements will be attached to a random marker,
+                  user cannot recognize them by marker. So I made a table of all possible elements in alphabetic order and printed it to put elements' markers in their place and use them as the game continues. Name of elements were also included in
+                  the models to make it easier for user to find it in the table right away.
+                </p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/alchemy_1.jpg" alt="">
+
+                <p class="modal-title">
+                  Challenges
+                </p>
+                <p class="modal-description">
+                  Technically speaking, the most challenging part was to attach a 3D model to a marker in real time. For that matter, one needs to detach previous child of the marker and attach the new model as a new child. Also transform property
+                  of model should be set the same as marker.<br>
+                  Finishing the game takes about half an hour if you guess the combinations quickly, or use the cheat sheet.
+                  Otherwise, you need to try combining lots of elements together and see if they can actually create a new one, which will take some time.
+                </p>
 
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>

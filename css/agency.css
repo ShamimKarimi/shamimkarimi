@@ -453,6 +453,10 @@ header.masthead .intro-text .intro-normal {
   text-align: left;
 }
 
+.modal-description-ul {
+  text-align: left;
+}
+
 .modal-title {
   font-size: 24px;
   line-height: 24px;
